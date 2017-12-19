@@ -1,5 +1,5 @@
 # Recommender Systems For Instacart: A Collaborative Filtering Approach
-## CS 6220 Project: Team 07
+
 
 Exploratory data analysis is performed in `src/eda.ipynb`.
 
